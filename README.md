@@ -1,6 +1,6 @@
 # CURSO TYPESCRIPT DO BÁSICO AO AVANÇADO   
 
-![alt](assets/img/tsbanner.png)
+![alt](https://images.prismic.io/spacetravelingtun/9c5b6cf0-9362-4562-823c-be087ff8e2a1_TypeScript_Vantagens_mitos_e_aplicacoes.png?auto=compress,format&rect=0,266,1920,549&w=1400&h=400)
 
 ----
 # Sumário Completo de Aulas
