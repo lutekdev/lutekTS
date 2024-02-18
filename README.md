@@ -11,3 +11,9 @@
 | 002 | Porque TypeScript               | [Arquivo Guia]() | [Arquivo TypeScript](ts.AULAS/aula.002/introducao.yaml)    |
 | 003 | Instalando o TypeScript         | [Arquivo Guia]() | [Arquivo TypeScript](ts.AULAS/aula.003/introducao.yaml)    |
 | 004 | Primeiro Programa em TypeScript | [Arquivo Guia]() | [Arquivo TypeScript](ts.AULAS/aula.004/assets/ts/index.ts) |
+
+# Sumário Completo de Exercícios
+
+| ID  | Titulos                        | GUIA             | .TS                                                           |
+| --- | ------------------------------ | ---------------- | ------------------------------------------------------------- |
+| 001 | Primeiro Desafio de TypeScript | [Arquivo Guia]() | [Arquivo TypeScript](ts.EXERCICIOS/ex.001/assets/ts/index.ts) |
