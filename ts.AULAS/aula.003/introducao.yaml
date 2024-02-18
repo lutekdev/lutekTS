@@ -1,0 +1,7 @@
+Instalando o TypeScript:
+  - Para Instalar o TypeScript, basta abrir o Prompt de Comando e digitar:
+      - npm install typescript -g
+  - Para testar basta digitar:
+      - tsc -v
+  - Para compilar basta digitar:
+      - tsc
