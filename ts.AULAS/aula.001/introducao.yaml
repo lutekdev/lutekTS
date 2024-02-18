@@ -8,3 +8,6 @@ TypeScript:
   - TypeScript não tem copilador proprio, ele precisa do JS para ser copilado, ou seja precisa de um copilador JS.
 
   - TypeScript foi e continuando sendo desenvolvido pela Microsoft.
+
+O QUE É 'SUPERSET':
+  - SuperSet na programação é como um pacote expandido de ferramentas ou recursos que oferece mais funcionalidades do que um conjunto básico, ajudando os programadores a serem mais eficientes e produtivos em seus projetos.
