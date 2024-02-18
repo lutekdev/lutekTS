@@ -1,0 +1,10 @@
+TypeScript:
+  - TypeScript é um 'SuperSet' para o JS.
+    - Ou Seja é um adicional que adiciona funções ao JavaScript.
+    - TypeScript Não é uma linguagem de programção.
+    - TypeScript veio para melhorar o uso dos tipos de declarações de váriveis para deixar o código mais legível e profissional.
+
+  - TypeScript pode ser utilizado com frameworks/libs, como Express e React.
+  - TypeScript não tem copilador proprio, ele precisa do JS para ser copilado, ou seja precisa de um copilador JS.
+
+  - TypeScript foi e continuando sendo desenvolvido pela Microsoft.
