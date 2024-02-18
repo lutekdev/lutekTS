@@ -1,0 +1,6 @@
+Por que TypeScript:
+  - Adiciona Confiabilidade ao programa (segurança, etc).
+  - Provê novas funcionalidades ao JavaScript, como interfaces.
+  - Com o TS podemos verificar erros antes da execução.
+  - Deixa o JavaScript mais explicito, diminuindo a quantidade de bugs.
+  - Perdemos menos tempo com Debugs.
