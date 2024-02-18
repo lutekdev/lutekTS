@@ -5,8 +5,9 @@
 ----
 # Sumário Completo de Aulas
 
-| ID  | Titulos                 | GUIA             | .TS                                                     |
-| --- | ----------------------- | ---------------- | ------------------------------------------------------- |
-| 001 | O que é TypeScript      | [Arquivo Guia]() | [Arquivo TypeScript](ts.AULAS/aula.001/introducao.yaml) |
-| 002 | Porque TypeScript       | [Arquivo Guia]() | [Arquivo TypeScript](ts.AULAS/aula.002/introducao.yaml) |
-| 003 | Instalando o TypeScript | [Arquivo Guia]() | [Arquivo TypeScript](ts.AULAS/aula.003/introducao.yaml) |
+| ID  | Titulos                         | GUIA             | .TS                                                     |
+| --- | ------------------------------- | ---------------- | ------------------------------------------------------- |
+| 001 | O que é TypeScript              | [Arquivo Guia]() | [Arquivo TypeScript](ts.AULAS/aula.001/introducao.yaml) |
+| 002 | Porque TypeScript               | [Arquivo Guia]() | [Arquivo TypeScript](ts.AULAS/aula.002/introducao.yaml) |
+| 003 | Instalando o TypeScript         | [Arquivo Guia]() | [Arquivo TypeScript](ts.AULAS/aula.003/introducao.yaml) |
+| 004 | Primeiro Programa em TypeScript | [Arquivo Guia]() | [Arquivo TypeScript](ts.AULAS/aula.004/index.html) |
