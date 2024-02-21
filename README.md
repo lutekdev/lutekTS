@@ -3,7 +3,7 @@
 ![alt](https://images.prismic.io/spacetravelingtun/9c5b6cf0-9362-4562-823c-be087ff8e2a1_TypeScript_Vantagens_mitos_e_aplicacoes.png?auto=compress,format&rect=0,266,1920,549&w=1400&h=400)
 
 ----
-# Sumário Completo de Aulas
+# Sumário Completo de Aulas - Matheus Battisti
 
 | ID  | Titulos                         | GUIA             | .TS                                                        |
 | --- | ------------------------------- | ---------------- | ---------------------------------------------------------- |
@@ -12,7 +12,7 @@
 | 003 | Instalando o TypeScript         | [Arquivo Guia]() | [Arquivo TypeScript](ts.AULAS/aula.003/introducao.yaml)    |
 | 004 | Primeiro Programa em TypeScript | [Arquivo Guia]() | [Arquivo TypeScript](ts.AULAS/aula.004/assets/ts/index.ts) |
 
-# Sumário Completo de Exercícios
+# Sumário Completo de Exercícios - Matheus Battisti
 
 | ID  | Titulos                        | GUIA             | .TS                                                           |
 | --- | ------------------------------ | ---------------- | ------------------------------------------------------------- |
