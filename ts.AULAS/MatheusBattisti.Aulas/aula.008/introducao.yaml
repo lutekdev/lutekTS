@@ -1,0 +1,6 @@
+---
+Type Annotation e Type Inference:
+  - Annotation: é quando setamos um dado manualmente, e quando você mesmo está falando que o tipo de dado especifio.
+  - Inference: é quando o TypeScript determina automaticamente o tipo de dado.
+---
+
