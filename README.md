@@ -20,6 +20,7 @@
 
 # Sumário Completo de Exercícios - Matheus Battisti
 
-| ID  | Titulos                        | GUIA             | .TS                                                           |
-| --- | ------------------------------ | ---------------- | ------------------------------------------------------------- |
-| 001 | Primeiro Desafio de TypeScript | [Arquivo Guia]() | [Arquivo TypeScript](ts.EXERCICIOS/ex.001/assets/ts/index.ts) |
+| ID  | Titulos                              | GUIA             | .TS                                                                              |
+| --- | ------------------------------------ | ---------------- | -------------------------------------------------------------------------------- |
+| 001 | Primeiro Desafio de TypeScript       | [Arquivo Guia]() | [Arquivo TypeScript](ts.EXERCICIOS/MatheusBattisti.Ex/ex.001/assets/ts/index.ts) |
+| 002 | Desafio de Fundamentos do TypeScript | [Arquivo Guia]() | [Arquivo TypeScript](ts.EXERCICIOS/MatheusBattisti.Ex/ex.002/index.ts)           |
