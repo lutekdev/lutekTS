@@ -1,0 +1,6 @@
+---
+Copilar no TypeScript Automáticamente:
+  - Basta usar o comando no terminal: "tsc -w <nome do arquivo.ts>"
+  - Ou Basta usar o comando no terminal: "tsc -watch <nome do arquivo.ts>"
+---
+
